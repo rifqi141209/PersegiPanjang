@@ -9,5 +9,5 @@ luas = panjang * lebar
 keliling = 2 * (panjang + lebar)
 
 #menampulkan hasil luas dan keliling 
-print (f"luas persegi panjang adalah: {luas} satuan persegi")
-print (f"keliling persegi panjang dalah: {keliling} satuan")
+print (f"luas persegi panjang adalah: {luas}")
+print (f"keliling persegi panjang dalah: {keliling}")
